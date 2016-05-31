@@ -10,3 +10,5 @@ Updated by wanderyt testing on remote/master branch, still as a collaborator.
 Updated by wanderyt testing on remote/master branch, but not as a collaborator.
 
 Updated by wanderyt, and create new pull request to push the code to original repository.
+
+Updated by wanderyt, and create new pull request to push the code to original repository after close pull request.
